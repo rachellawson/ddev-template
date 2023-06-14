@@ -1,2 +1,3 @@
-# ddev-template
-a drupal repo ready to do ddev
+# DDEV Template
+
+A drupal repo ready to do ddev
