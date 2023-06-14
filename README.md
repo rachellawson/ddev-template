@@ -13,3 +13,7 @@ To create a new repository from this template:
 5. In the Ports tab above the terminal, you will see the ports listed for things like the webserver, the database server etc. Click on the World icon next to the SSL port for the webserver and a new tab will open, inviting you to "install Drupal"
 6. Install Drupal
 7. Be gay, do crime.
+
+# Codespaces restarts
+
+If the codespace is restarted, the docker pieces that hold the webserver etc need to be started with the command `ddev start`.
